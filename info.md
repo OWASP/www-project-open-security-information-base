@@ -18,12 +18,3 @@
 ### Downloads
 * [Download](https://github.com/OWASP/OSIB)
 
-### Version
-* 0.9.0
-<!--- 
-### Change Log
-* [changes](#)
-
-### Social Links
-* [Meetup](#)
---->
