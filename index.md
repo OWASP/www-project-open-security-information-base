@@ -8,7 +8,7 @@ type: code, documentation
 pitch: The project delivers MkDocs macros that provide a central management of links in MkDocs documents. This includes the versioning of links inside a project, standard or a group of documents and to external sources.
 
 ---
-# OWASP Project: Open Security Information Base (OSIB) Homepage
+# Open Security Information Base (OSIB): Project Homepage
 * The project delivers MkDocs macros that provide a central management of links in MkDocs documents. This includes the versioning of links inside a project, standard or a group of documents and to external sources.
 * By exporting and sharing the compiled or updated OSIB structure in a YAML file all efforts done by one volunteering group can be used by any other project, standard or document that refers to the same links.
 <br>
