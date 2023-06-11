@@ -29,7 +29,7 @@ The OSIB tree and the macros are capable to handle multilingual versions for lin
   - Uses and generates a YAML data structure than can be shared among projects
   - Share your YAML-File, to help others
   - The YAML-File can be imported and exported by https://opencre.org/ (perhaps the interface needs to be updated there)
-- The provided version ia a first workuing release that should be reviewed.
+-	The provided version is a first working release that should be reviewed.
 
 This repository is for the Open Security Information Base (OSIB) page on the OWASP website, available at [https://owasp.org/www-project-open-security-information-base](https://owasp.org/www-project-open-security-information-base/).
 
