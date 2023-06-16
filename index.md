@@ -20,13 +20,13 @@ The OSIB tree and the macros are capable to handle multilingual versions for lin
 - OWASP Top 10 and most other projects use and generate links to references and to previous versions
 - Let’s support each other and avoid redundant work
 - Let’s use, generate and share links to other OWASP projects, versions and external references
-- Open Security Information Base (OSIB)-Repro: https://github.com/OWASP/OSIB
+- Open Security Information Base (OSIB)-Repro: [https://github.com/OWASP/OSIB](https://github.com/OWASP/OSIB)
 - <b>Features</b>:
   - Manages links centrally by the project
   - Supports versioning internal and external Links by the project
   - (Manually) installable module that provides MkDocs macros to use with Markdown 
   - Easy to use, provides actually 2 Mkdocs macros (osib_anchor, osib_link)
-  - Uses and generates a YAML data structure than can be shared among projects
+  - Uses and generates a YAML data structure than can be shared among projects ([osib.yml](https://github.com/OWASP/OSIB/blob/main/osib.yml))
   - Share your YAML-File, to help others
   - The YAML-File can be imported and exported by https://opencre.org/ (perhaps the interface needs to be updated there)
 -	The provided version is a first working release that should be reviewed.
