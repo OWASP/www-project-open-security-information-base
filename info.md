@@ -18,3 +18,5 @@
 ### Downloads
 * [Download](https://github.com/OWASP/OSIB)
 
+### Slack
+* [owasp.slack.com: channel #project-osib](https://app.slack.com/client/T04T40NHX/C05DPB4M1Q8)
